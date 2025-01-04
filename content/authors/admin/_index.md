@@ -2,14 +2,13 @@
 # Display name
 title: Raihan Evan
 
-
 # Full name (for SEO)
 first_name: H.M.
 last_name: Raihan Evan
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 😴
 
 # Is this the primary user of the site?
 superuser: true
@@ -79,8 +78,8 @@ work:
     company_name: Brain Station 23 Ltd.
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2021-02-01
+    date_end: 2021-05-1
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
