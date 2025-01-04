@@ -21,9 +21,9 @@ highlight_name: true
 role: Software Engineer
 
 # Organizations/Affiliations to display in Biography blox
-organizations:
-  - name: OpenAI
-    url: https://openai.com/
+# organizations:
+#   - name: OpenAI
+#     url: https://openai.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -39,10 +39,10 @@ profiles:
     url: https://github.com/RaihanEvan
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/raihan-evan-0b7b30188/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+  # - icon: academicons/google-scholar
+  #   url: https://scholar.google.com/
+  # - icon: academicons/orcid
+  #   url: https://orcid.org/
 
 interests:
   - Artificial Intelligence
@@ -51,11 +51,11 @@ interests:
 
 education:
   - area: Executive Masters in Information Technology
-    institution: Massachusetts Institute of Technology
+    institution: IIT, University of Dhaka
     date_start: 2023-01-01
     date_end: ''
-    summary: |
-      GPA: 3.8/4.0
+    # summary: |
+    #   GPA: 3.8/4.0
   - area: Bachelor of Science and Engineering in Software Engineering
     institution: Islamic University of Technology
     date_start: 2018-02-01
@@ -105,16 +105,16 @@ skills:
     items:
       - name: Gaming
         description: ''
-        percent: 60
+        percent: 80
         icon: person-simple-walk
       - name: Cats
         description: ''
         percent: 100
         icon: cat
-      - name: Photography
+      - name: Reading
         description: ''
-        percent: 80
-        icon: camera
+        percent: 60
+        icon: book
 
 languages:
   - name: Bengali
@@ -130,14 +130,14 @@ languages:
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
-    summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
+# awards:
+#   - title: Neural Networks and Deep Learning
+#     url: https://www.coursera.org/learn/neural-networks-deep-learning
+#     date: '2023-11-25'
+#     awarder: Coursera
+#     icon: coursera
+#     summary: |
+#       I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
 
 ---
 
